@@ -17,6 +17,9 @@ Asigurati-va ca aveti Node.js instalat pe sistem, apoi urmati pasii:
 4. Pregatiti fisierul pentru variabilele de mediu:
     ```
     cp .env.example .env
+    
+    modificati DB_USER si DB_PASS cu userul si parola dumneavoastra  
+
 5. Configurare Baza de Date 
     ```bash
     mysql -u root -p -e "CREATE DATABASE softprim_test CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;"
