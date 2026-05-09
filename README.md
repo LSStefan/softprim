@@ -30,7 +30,7 @@ Asigurati-va ca aveti Node.js instalat pe sistem, apoi urmati pasii:
 
 
 ## 4. Pornire server
-    ```bash
+
     node app.js
 
 ## 5. Exemple de apel (Endpoints)
